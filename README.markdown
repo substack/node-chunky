@@ -6,6 +6,8 @@ Split up a string or buffer into lots of randomly-sized chunks.
 This module is useful for writing unit tests against streams with
 buffer-boundary conditions.
 
+[![build status](https://secure.travis-ci.org/substack/node-chunky.png)](http://travis-ci.org/substack/node-chunky)
+
 example
 =======
 
